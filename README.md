@@ -1,2 +1,1 @@
-# radio-tomography
-radio tomographic imaging 
+# radio tomographic imaging with rssi from multiple channels
